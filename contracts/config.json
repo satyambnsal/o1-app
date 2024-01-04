@@ -1,4 +1,20 @@
 {
   "version": 1,
-  "deployAliases": {}
+  "deployAliases": {
+    "berkeley": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeley.json",
+      "feepayerKeyPath": "/Users/satyam/.cache/zkapp-cli/keys/minaauroaccount1.json",
+      "feepayerAlias": "minaauroaccount1",
+      "fee": "1",
+      "smartContract": "Add"
+    },
+    "berkeley1": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeley1.json",
+      "feepayerKeyPath": "/Users/satyam/.cache/zkapp-cli/keys/mylocalaccount2.json",
+      "feepayerAlias": "mylocalaccount2",
+      "fee": "0.1"
+    }
+  }
 }

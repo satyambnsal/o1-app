@@ -21,6 +21,15 @@ npm run testw # watch mode
 npm run coverage
 ```
 
+
+# Instructions to deploy on berkeley
+
+alias name: `berkeley`
+
+MINA GraphQL API URL: `https://proxy.berkeley.minaexplorer.com/graphql`
+
+
+
 ## License
 
 [Apache-2.0](LICENSE)
